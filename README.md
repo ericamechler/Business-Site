@@ -1,7 +1,6 @@
 # Business Site
 
 Site to order cakes in different cake-sizes. Responsive design and a form.
-Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
 
 ## The problem
 
